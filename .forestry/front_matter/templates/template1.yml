@@ -20,3 +20,5 @@ fields:
     schema:
       format: markdown
   label: Article
+pages:
+- content/Tomasz Piątek/tytul.md
